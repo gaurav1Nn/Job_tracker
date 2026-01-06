@@ -33,18 +33,6 @@
 
 ---
 
-### Dashboard
-<img src="https://github.com/user-attachments/assets/15dc1df0-cf8d-4e4c-acc2-6be362110fa8" width="800" alt="Dashboard" />
-
-### Applications Management
-<img src="https://github.com/user-attachments/assets/eb72147a-8d9b-4882-bd86-e0b81b3da68b" width="800" alt="Applications" />
-
-### Add New Application
-<img src="https://github.com/user-attachments/assets/628a66ef-1467-425e-b780-04bce9785c41" width="800" alt="Add Application" />
-
-</div>
-
----
 ## 📋 Assignment Submission for Full-Stack Developer Intern Role
 
 **Submitted by:** Gaurav  
