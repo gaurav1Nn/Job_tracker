@@ -1,6 +1,25 @@
 import axios, { AxiosError, InternalAxiosRequestConfig } from 'axios';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api';
+// Auto-detect environment
+const getApiUrl = () => {
+    // If env variable is set, use it
+    if (process.env.NEXT_PUBLIC_API_URL) {
+        return process.env.NEXT_PUBLIC_API_URL;
+    }
+
+    // If running in browser and not localhost, use production backend
+    if (typeof window !== 'undefined') {
+        const hostname = window.location.hostname;
+        if (hostname !== 'localhost' && hostname !== '127.0.0.1') {
+            return 'https://jobsync-backend-nvya.onrender.com/api';
+        }
+    }
+
+    // Default to localhost for development
+    return 'http://localhost:5000/api';
+};
+
+const API_URL = getApiUrl();
 
 export const api = axios.create({
     baseURL: API_URL,
