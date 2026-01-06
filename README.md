@@ -1,24 +1,50 @@
 # JobSync - Full-Stack Job Application Tracker
 
 <div align="center">
-<img width="1313" height="649" alt="image" src="https://github.com/user-attachments/assets/15dc1df0-cf8d-4e4c-acc2-6be362110fa8" />
-<img width="1295" height="657" alt="image" src="https://github.com/user-attachments/assets/eb72147a-8d9b-4882-bd86-e0b81b3da68b" />
-<img width="1909" height="953" alt="image" src="https://github.com/user-attachments/assets/628a66ef-1467-425e-b780-04bce9785c41" />
 
 ![JobSync](https://img.shields.io/badge/JobSync-Live-success)
-![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)
-![Node.js](https://img.shields.io/badge/Node.js-24.x-green)
+![Node.js](https://img.shields.io/badge/Node.js-20.x-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
 
 **A modern, scalable full-stack web application for tracking job applications**
 
-[Live Demo](https://jobsync-lime.vercel.app) · [API Documentation](postman_collection.json) 
+[Live Demo](https://jobsync-lime.vercel.app) · [API Docs](postman_collection.json) · [Report Bug](https://github.com/gaurav1Nn/JOB_trackor/issues)
 
 </div>
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Dashboard
+<img src="https://github.com/user-attachments/assets/15dc1df0-cf8d-4e4c-acc2-6be362110fa8" width="800" alt="Dashboard" />
+
+### Applications Management
+<img src="https://github.com/user-attachments/assets/eb72147a-8d9b-4882-bd86-e0b81b3da68b" width="800" alt="Applications" />
+
+### Add New Application
+<img src="https://github.com/user-attachments/assets/628a66ef-1467-425e-b780-04bce9785c41" width="800" alt="Add Application" />
+
+</div>
+
+---
+
+### Dashboard
+<img src="https://github.com/user-attachments/assets/15dc1df0-cf8d-4e4c-acc2-6be362110fa8" width="800" alt="Dashboard" />
+
+### Applications Management
+<img src="https://github.com/user-attachments/assets/eb72147a-8d9b-4882-bd86-e0b81b3da68b" width="800" alt="Applications" />
+
+### Add New Application
+<img src="https://github.com/user-attachments/assets/628a66ef-1467-425e-b780-04bce9785c41" width="800" alt="Add Application" />
+
+</div>
+
+---
 ## 📋 Assignment Submission for Full-Stack Developer Intern Role
 
 **Submitted by:** Gaurav  
