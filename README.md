@@ -1,6 +1,9 @@
 # JobSync - Full-Stack Job Application Tracker
 
 <div align="center">
+<img width="1313" height="649" alt="image" src="https://github.com/user-attachments/assets/15dc1df0-cf8d-4e4c-acc2-6be362110fa8" />
+<img width="1295" height="657" alt="image" src="https://github.com/user-attachments/assets/eb72147a-8d9b-4882-bd86-e0b81b3da68b" />
+<img width="1909" height="953" alt="image" src="https://github.com/user-attachments/assets/628a66ef-1467-425e-b780-04bce9785c41" />
 
 ![JobSync](https://img.shields.io/badge/JobSync-Live-success)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
