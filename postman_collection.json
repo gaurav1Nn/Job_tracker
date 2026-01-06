@@ -1,7 +1,7 @@
 {
     "info": {
-        "name": "Job Tracker API",
-        "description": "API collection for Job Application Tracker",
+        "name": "JobSync API",
+        "description": "API collection for JobSync - Modern Job Application Tracker",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "variable": [

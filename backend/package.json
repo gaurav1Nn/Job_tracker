@@ -1,7 +1,7 @@
 {
-  "name": "job-tracker-backend",
+  "name": "jobsync-backend",
   "version": "1.0.0",
-  "description": "Job Application Tracker API",
+  "description": "JobSync API - Modern Job Application Tracker",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",

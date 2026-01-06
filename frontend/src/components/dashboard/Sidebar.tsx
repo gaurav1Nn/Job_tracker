@@ -56,7 +56,7 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
                                 <Briefcase className="w-4 h-4 text-white" />
                             </div>
                             <span className="text-lg font-bold text-gray-900 dark:text-white">
-                                Job<span className="text-indigo-600 dark:text-indigo-400">Tracker</span>
+                                Job<span className="text-indigo-600 dark:text-indigo-400">Sync</span>
                             </span>
                         </Link>
                         <button
