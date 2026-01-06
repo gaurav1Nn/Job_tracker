@@ -405,8 +405,7 @@ Authorization: Bearer <access_token>
 ## 👨‍💻 Developer
 
 **Gaurav**  
-📧 Email: [Your Email]
-🔗 LinkedIn: [Your LinkedIn]  
+📧 Email: nilawargaurav@gmail.com
 💼 GitHub: [@gaurav1Nn](https://github.com/gaurav1Nn)
 
 ---
