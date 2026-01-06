@@ -10,8 +10,23 @@ import applicationRoutes from './routes/application.routes.js';
 const app = express();
 
 // Middleware
+const allowedOrigins = [
+    env.FRONTEND_URL,
+    'https://jobsync-lime.vercel.app',
+    'http://localhost:3000',
+];
+
 app.use(cors({
-    origin: env.FRONTEND_URL,
+    origin: (origin, callback) => {
+        // Allow requests with no origin (mobile apps, Postman, etc.)
+        if (!origin) return callback(null, true);
+
+        if (allowedOrigins.includes(origin)) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
+    },
     credentials: true,
 }));
 app.use(express.json());
