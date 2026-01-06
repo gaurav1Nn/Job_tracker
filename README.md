@@ -10,7 +10,7 @@
 
 **A modern, scalable full-stack web application for tracking job applications**
 
-[Live Demo](https://jobsync-lime.vercel.app) · [API Documentation](postman_collection.json) · [Report Bug](https://github.com/gaurav1Nn/JOB_trackor/issues)
+[Live Demo](https://jobsync-lime.vercel.app) · [API Documentation](postman_collection.json) 
 
 </div>
 
